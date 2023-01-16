@@ -1,0 +1,147 @@
+@import url('https://www.youtube.com/watch?v=llF6vD-RljE&list=PLbMcrjZSI368-OtsKZ_j7AMK0vjlchNoB&index=5');
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+
+
+}
+body {
+    font-size: 100%;
+    background: linear-gradient(8.15deg, #2f2325 16.62%, #8e5d52 85.61%);
+    
+
+
+
+}
+
+.conteudo{border-top: 4px solid white;
+    padding: 48px;
+    
+
+}
+
+
+
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around ;
+    padding: 24px;
+    
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 50px;
+
+
+}
+
+.cabecalho-menu-item{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo {
+    border-top: 1px solid #fff2e7;
+    color: #fff2e7;
+    margin-bottom: 48px;
+}
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around
+}
+.conteudo-principal-escrito-titulo
+{ display: flex;
+    flex-direction: column;
+    gap: 32px;}
+
+.conteudo-principal-escrito-titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 64px;}
+
+.conteudo-principal-escrito-subtitutlo{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 600;
+font-size: 26px; }
+
+
+
+
+.conteudo-principal-escrito-botao{
+    background-color: #ecd6c4;
+    width: 185px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px; color: black;
+    border-radius: 20px;
+    
+}
+
+
+
+
+
+
+.conteudo-principal-imagem{
+    height: 300px;
+    width: 400px;
+
+
+}
+
+.conteudo-secundario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+
+
+}
+
+.conteudo-secundario-titulo{
+    border-top: 1px solid white;
+    padding-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+}
+.conteudo-secundarioa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 0;
+    font-size: 15px;
+    color: white;
+
+}
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
